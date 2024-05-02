@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPMicrophoneSender", "UDPMicrophoneSender\UDPMicrophoneSender.csproj", "{A82D01F2-BA97-4DB3-A20A-99DFFB6EB0AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPMicrophoneReceiver", "UDPMicrophoneReceiver\UDPMicrophoneReceiver.csproj", "{DFAEE67C-E39A-4DD7-BD3A-E6F9A82C15EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A82D01F2-BA97-4DB3-A20A-99DFFB6EB0AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82D01F2-BA97-4DB3-A20A-99DFFB6EB0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82D01F2-BA97-4DB3-A20A-99DFFB6EB0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82D01F2-BA97-4DB3-A20A-99DFFB6EB0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFAEE67C-E39A-4DD7-BD3A-E6F9A82C15EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAEE67C-E39A-4DD7-BD3A-E6F9A82C15EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAEE67C-E39A-4DD7-BD3A-E6F9A82C15EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAEE67C-E39A-4DD7-BD3A-E6F9A82C15EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,86 @@
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\UDPMicrophoneSender.exe
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\UDPMicrophoneSender.pdb
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\Microsoft.Win32.Registry.dll
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\NAudio.Asio.dll
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\NAudio.Core.dll
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\NAudio.dll
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\NAudio.Midi.dll
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\NAudio.Wasapi.dll
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\NAudio.WinForms.dll
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\NAudio.WinMM.dll
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\System.Security.AccessControl.dll
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\System.Security.Principal.Windows.dll
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\Microsoft.Win32.Registry.xml
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\NAudio.xml
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\NAudio.Asio.xml
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\NAudio.Core.xml
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\NAudio.Midi.xml
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\NAudio.Wasapi.xml
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\NAudio.WinForms.xml
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\NAudio.WinMM.xml
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\System.Security.AccessControl.xml
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\System.Security.Principal.Windows.xml
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\obj\Debug\UDPMicrophoneSender.csproj.AssemblyReference.cache
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\obj\Debug\UDPMicrophoneSender.csproj.CoreCompileInputs.cache
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\obj\Debug\UDPMicro.D7FCF1B2.Up2Date
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\obj\Debug\UDPMicrophoneSender.exe
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\obj\Debug\UDPMicrophoneSender.pdb
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\runtimes\win-x64\native\opus.dll
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\runtimes\win-x86\native\opus.dll
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\runtimes\linux-armv6\native\libopus.so
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\runtimes\linux-x64\native\libopus.so
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\runtimes\osx-x64\native\libopus.dylib
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\UDPMicrophoneSender.exe.config
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\Concentus.dll
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\System.Buffers.dll
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\System.Memory.dll
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\System.Numerics.Vectors.dll
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\Concentus.xml
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\System.Buffers.xml
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\System.Memory.xml
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\System.Numerics.Vectors.xml
+G:\Programming Projects\Yuozas\Audio UDP Test\UDP Microphone\UDP Microphone\UDPMicrophoneSender\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\runtimes\win-x64\native\opus.dll
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\runtimes\win-x86\native\opus.dll
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\runtimes\linux-armv6\native\libopus.so
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\runtimes\linux-x64\native\libopus.so
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\runtimes\osx-x64\native\libopus.dylib
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\UDPMicrophoneSender.exe.config
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\UDPMicrophoneSender.exe
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\UDPMicrophoneSender.pdb
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\Concentus.dll
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\Microsoft.Win32.Registry.dll
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\NAudio.Asio.dll
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\NAudio.Core.dll
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\NAudio.dll
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\NAudio.Midi.dll
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\NAudio.Wasapi.dll
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\NAudio.WinForms.dll
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\NAudio.WinMM.dll
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\System.Buffers.dll
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\System.Memory.dll
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\System.Numerics.Vectors.dll
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\System.Security.AccessControl.dll
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\System.Security.Principal.Windows.dll
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\Concentus.xml
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\Microsoft.Win32.Registry.xml
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\NAudio.xml
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\NAudio.Asio.xml
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\NAudio.Core.xml
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\NAudio.Midi.xml
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\NAudio.Wasapi.xml
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\NAudio.WinForms.xml
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\NAudio.WinMM.xml
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\System.Buffers.xml
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\System.Memory.xml
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\System.Numerics.Vectors.xml
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\System.Security.AccessControl.xml
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\bin\Debug\System.Security.Principal.Windows.xml
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\obj\Debug\UDPMicrophoneSender.csproj.AssemblyReference.cache
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\obj\Debug\UDPMicrophoneSender.csproj.CoreCompileInputs.cache
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\obj\Debug\UDPMicro.D7FCF1B2.Up2Date
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\obj\Debug\UDPMicrophoneSender.exe
+G:\Programming Projects\Euphelia\UDPMicrophone\UDPMicrophoneSender\obj\Debug\UDPMicrophoneSender.pdb
